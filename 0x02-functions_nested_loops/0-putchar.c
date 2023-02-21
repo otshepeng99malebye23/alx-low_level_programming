@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * main - print holberton
  * Return: 0 if succesful
