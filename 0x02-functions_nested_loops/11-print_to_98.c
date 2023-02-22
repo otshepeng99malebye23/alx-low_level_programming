@@ -1,3 +1,6 @@
+#include "main.h"
+
+
 
 #include <stdio.h>
 
@@ -17,7 +20,8 @@ printf("%d", n);
 if (n != 98)
 printf(", ");
 else
-printf("\n"};
+printf("\n");
+}
 }
 else if (n < 98)
 {
@@ -35,4 +39,7 @@ else
 printf("%d\n", n);
 }
 }
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
 
