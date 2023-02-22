@@ -1,6 +1,6 @@
 #include "main.h"
 
-**
+/**
  * _isalpha - checks if input is lowercase
  * @c: variable to determine if input is lowercase
  * main - uses built in function
